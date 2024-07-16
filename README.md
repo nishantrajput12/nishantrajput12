@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate frontend and backend developer and a speaker, leader from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantrajput12&label=Profile%20views&color=0e75b6&style=flat" alt="nishantrajput12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantrajput12&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant Kumar" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Data Science, HTML CSS**
 
